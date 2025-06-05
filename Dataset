@@ -1,0 +1,1 @@
+python scripts/preprocess_data.py --dataset flickr8k --images_dir ./data/images --captions_file ./data/captions.txt
